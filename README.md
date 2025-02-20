@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/advaithsomula/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/advaithsomula/LeetCode/tree/master/0125-valid-palindrome) |
 | [2107-find-unique-binary-string](https://github.com/advaithsomula/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/advaithsomula/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Sorting
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/advaithsomula/LeetCode/tree/master/0011-container-with-most-water) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/advaithsomula/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Stack
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/advaithsomula/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/advaithsomula/LeetCode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/advaithsomula/LeetCode/tree/master/0739-daily-temperatures) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/advaithsomula/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Design
 |  |
 | ------- |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/advaithsomula/LeetCode/tree/master/0022-generate-parentheses) |
 | [2107-find-unique-binary-string](https://github.com/advaithsomula/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/advaithsomula/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Monotonic Stack
 |  |
 | ------- |
