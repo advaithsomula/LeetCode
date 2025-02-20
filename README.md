@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/advaithsomula/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/advaithsomula/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/advaithsomula/LeetCode/tree/master/0739-daily-temperatures) |
+| [2107-find-unique-binary-string](https://github.com/advaithsomula/LeetCode/tree/master/2107-find-unique-binary-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/advaithsomula/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/advaithsomula/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/advaithsomula/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [2107-find-unique-binary-string](https://github.com/advaithsomula/LeetCode/tree/master/2107-find-unique-binary-string) |
 ## String
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/advaithsomula/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/advaithsomula/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/advaithsomula/LeetCode/tree/master/0125-valid-palindrome) |
+| [2107-find-unique-binary-string](https://github.com/advaithsomula/LeetCode/tree/master/2107-find-unique-binary-string) |
 ## Sorting
 |  |
 | ------- |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/advaithsomula/LeetCode/tree/master/0022-generate-parentheses) |
+| [2107-find-unique-binary-string](https://github.com/advaithsomula/LeetCode/tree/master/2107-find-unique-binary-string) |
 ## Monotonic Stack
 |  |
 | ------- |
